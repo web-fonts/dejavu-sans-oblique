@@ -1,0 +1,28 @@
+{
+  "name": "dejavu-sans-oblique",
+  "description": "DejaVu Sans Oblique Web-Font Package",
+  "version": "1.0.0",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "dejavu-sans-oblique"],
+  "main": [
+    "css/dejavu-sans-oblique.css"
+  ],
+  "homepage": "https://github.com/web-fonts/dejavu-sans-oblique",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/dejavu-sans-oblique.git"
+  },
+  "license": ["MIT", "CC-BY-NC-ND-4.0"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.md",
+    "font.json",
+    "package.json"
+  ]
+}
